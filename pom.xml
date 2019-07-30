@@ -1,3 +1,11 @@
-hello
-this is the project object model file
-
+<project>
+	<Version>v1.0</version>
+	<name>whitepaper</name>
+	<packaging>jar</packaging>
+	<groupid>whitepaper</groupdid>
+   <repository>
+   </repository>
+	<dependencies>
+	</dependencies>
+</project>
+	
